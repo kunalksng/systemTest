@@ -12,7 +12,7 @@ After doing this, confirm that you have installed virtualenv globally as well. I
     $ pip install virtualenv
 Then, Git clone this repo to your PC
 
-    $ git clone https://github.com/gitgik/django-rest-api.git
+    $ git clone https://github.com/kunalksng/systemTest.git
     
     Dependencies
 Cd into your the cloned repo as such:
